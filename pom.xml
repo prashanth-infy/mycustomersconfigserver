@@ -63,7 +63,6 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>mycustomersconfigserver</finalName>
 	</build>
 
 </project>
